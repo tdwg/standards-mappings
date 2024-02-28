@@ -103,14 +103,14 @@ The group will support standard creators and maintainers to create mappings by g
 
 - Subtasks and their related communication will be organized using the Github issue tracker. The issue tracker will also be used to announce meetings and to answer questions or provide support for people that are not part of the task group. 
 
-- The alternative channel of communication outside of the Github issues and the virtual meetings will be the discussion channel #mappings-between-standards in the TDWG slack space.
+- The alternative channel of communication outside of the Github issues and the virtual meetings will be the discussion channel #mappings-between-standards in the [TDWG slack space](https://www.tdwg.org/about/#slack).
 
 - As by the TDWG default, all the outputs of this group will be licensed under the [Creative Commons CC-BY license](https://creativecommons.org/licenses/by/4.0/) (or alternatively under [Creative Commons CC-0](https://creativecommons.org/publicdomain/zero/1.0/) if the group decides to do so). A contributors file in the Github repository will list all the people who have contributed to the outcome of this group and for specific outputs such as reports an authors/contributors list will list the people who worked on that specific output. Suggested citations for the outputs of this group will give people using, referencing or citing them an easy way to acknowledge the people who contributed in a way that follows scientific best practices, even if it is not required by the license, as would be the case with CC-0.
 
 
 ## 6. Becoming Involved
 
-* Join the discussion channel #mappings-between-standards in the TDWG slack space, which is where upcoming meetings will be announced and discussions of the topic and work take place.
+* Join the discussion channel #mappings-between-standards in the [TDWG slack space](https://www.tdwg.org/about/#slack), which is where upcoming meetings will be announced and discussions of the topic and work take place.
 
 * Anybody who is interested in the topic is invited to participate and come to the meetings. Experience with expressing standard mappings in various formats is highly welcome. This could also include one-time appearances in the meetings to introduce a particular mapping approach or to showcase how a particular TDWG standard handles mapping.
 
