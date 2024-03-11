@@ -76,7 +76,7 @@ The group will create recommendations for the TAG on how TDWG standards should d
 
 **Deliverable 3: A recommendation report to the TAG that selects one or more mapping standards that should be the advised way to express mappings within TDWG.** (depends on Deliverable 2)
 
-**Deliverable 4: A recommendation report to the TAG on how mappings should be expressed on the TDWG website for findability and human readability.**  ****(depends on Deliverable 3)
+**Deliverable 4: A recommendation report to the TAG on how mappings should be expressed on the TDWG website for findability and human readability.**  (depends on Deliverable 3)
 
 
 ### Task 4: Support for standard creators
