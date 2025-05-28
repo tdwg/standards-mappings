@@ -10,11 +10,6 @@
 
 A Task Group of Technical Architecture Group (TAG)
 
- 
-> [!NOTE]
-> This is the preliminary charter agreed upon by the Standards Mapping Task Group during their [February 2024 meeting](meeting-notes/2024-02-22.md). It is still pending approval from the TDWG Executive Committee.
-
-
 ## 1. Convenor
 * David Fichtmueller (d.fichtmueller@bgbm.org)
 
