@@ -55,7 +55,7 @@ A checklist for hosting meetings of the TDWG Standards Mapping Task Group
 ## After the conference
 
 1. Complete the minutes
-2. Export the minutes to MarkDown (use [the template file](https://github.com/tdwg/standards-mappings/blob/main/meeting-notes/template_meeting_notes.md)) and publish them on Github
+2. Export the minutes to MarkDown (use [Google Doc to Markdown Converter](https://gdoc2md.com/) and [the template file](https://github.com/tdwg/standards-mappings/blob/main/meeting-notes/template_meeting_notes.md)) and publish them on Github
    - add any files to the repo as well (slides, images, etc.), stay with the convention that file names start with the date as yyyy-mm-dd 
 3. Post the link to minutes with a short summary of the outcome in the Slack channel
 4. Close the Github Ticket for the meeting and link to the minutes file
