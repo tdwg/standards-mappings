@@ -1,5 +1,5 @@
 ---
-name: Umcoming Meeting
+name: Upcoming Meeting
 about: A template for announcing upcoming meetings of the task group
 title: 'Standards Mapping TG Meeting: <Day of the week> <Date>'
 labels: meeting
